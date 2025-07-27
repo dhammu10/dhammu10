@@ -18,7 +18,7 @@
 - 💻 **Skills:** Core Java, Python, JavaScript, HTML, CSS, ReactJS, SQL
 - 🚀 **Currently Working On:** Building practical projects to strengthen my full-stack development skills
 - 🌱 **Learning:** Advanced backend frameworks & Cloud deployment
-- 📫 **Contact Me:** [Email](mailto:modakdhammdip@gmail.com.com) | [LinkedIn](https://www.linkedin.com/in/dhammdip-modak/) 
+- 📫 **Contact Me:** [Email](mailto:modakdhammdip@gmail.com.com) | [LinkedIn](https://www.linkedin.com/in/dhammdip-modak-079635218/) 
 
 ---
 
