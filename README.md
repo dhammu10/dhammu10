@@ -1,6 +1,6 @@
 <!-- Banner Image (replace the link with your own banner) -->
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="Dhammdip Modak Banner" width="100%" />
+  <img src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" alt="Dhammdip Modak Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Dhammdip Modak</h1>
