@@ -18,7 +18,7 @@
 - 💻 **Skills:** Core Java, Python, JavaScript, HTML, CSS, ReactJS, SQL
 - 🚀 **Currently Working On:** Building practical projects to strengthen my full-stack development skills
 - 🌱 **Learning:** Advanced backend frameworks & Cloud deployment
-- 📫 **Contact Me:** [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile/) 
+- 📫 **Contact Me:** [Email](mailto:modakdhammdip@gmail.com.com) | [LinkedIn](https://www.linkedin.com/in/dhammdip-modak/) 
 
 ---
 
@@ -39,15 +39,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Dhammdip's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhammu10&show_icons=true&theme=radical" alt="Dhammdip's GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhammu10&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhammu10&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
